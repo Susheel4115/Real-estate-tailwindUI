@@ -1,4 +1,4 @@
-# Real-estate-tailwindUI
+# Real-estate-TailwindUI
 
 # Tailwind css
 
